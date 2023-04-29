@@ -1,17 +1,17 @@
 <html>
 <div align="center">
    <h1>Namaste!  I'm GOURSUNDER</a>  </h1>
-   <h1>I am Harshal Walunj</h1>
+   </div>
+</html>
 
-   - A Final Year Information Technology Engineering student from [Pune Institute of Computer Technology](https://pict.edu/).
-   - I am Full Stack Web Developer and also Cloud and Machine Learning Enthusiast
+   - A Final Year Information Technology Engineering student from [D Y Patil Collage of Engineering , Ambi ](https://pict.edu/).
+   - I am Full Stack Web Developer and also Cloud and Devops  Enthusiast
 
 ## Get In touch
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshalwalunj49@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalwalunj127/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Harshalwalunj3)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/harshal127/)
-![Profile Views](https://komarev.com/ghpvc/?username=harshal239&style=for-the-badge)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunderpandey53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goursunder-pandey-2400a714b/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]((https://www.instagram.com/iamsunder12/))
+![Profile Views](https://komarev.com/ghpvc/?username=goursunderpandey&style=for-the-badge)
 
 ## Technologies I Have Used
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,12 +33,9 @@
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-   
-</div>
-</html>
+
 
 
   
